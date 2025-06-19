@@ -84,14 +84,3 @@ private func test1() {
      •    ссылками (var, let, массивы ссылок)
      •    closures, которые захватывают self
 */
-
-/*
- 
- 
- 
- 
- 
- 3. что делает flatMap в Combine
- 
- 
- 
